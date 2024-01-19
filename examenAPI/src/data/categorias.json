@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "deportes"
+  },
+  {
+    "id": 2,
+    "nombre": "libros"
+  },
+  {
+    "id": 3,
+    "nombre": "juguetes"
+  },
+  {
+    "id": 4,
+    "nombre": "hogar"
+  },
+  {
+    "id": 5,
+    "nombre": "electrónica"
+  },
+  {
+    "id": 6,
+    "nombre": "salud"
+  },
+  {
+    "id": 7,
+    "nombre": "moda"
+  },
+  {
+    "id": 8,
+    "nombre": "religión"
+  }
+]
